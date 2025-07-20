@@ -10,7 +10,7 @@
       <class name="tests.LoginTest">
         <methods>
           <include name="Teardown"/>
-          <include name="loginWithExcelData" invocation-numbers="0 1 2 3 4 5"/>
+          <include name="loginWithExcelData" invocation-numbers="2 3 4 5"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- tests.LoginTest -->
